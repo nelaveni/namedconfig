@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:namedConfiguration ns1:CLASS_NAME="com.fiorano.services.libraries.jms.configuration.ConnectionConfiguration" xmlns:ns1="uri:com.fiorano.services.libraries.jms.configuration">
+    <ns1:passwordFromVault>false</ns1:passwordFromVault>
+    <ns1:customPasswordEncryption>false</ns1:customPasswordEncryption>
+    <ns1:username>admin</ns1:username>
+    <ns1:password>DMSLzKckc/JLgIUhIpdeyw==</ns1:password>
+    <ns1:cfConfiguration>
+        <ns1:url>http://localhost:1847</ns1:url>
+        <ns1:backupURLsRequired>false</ns1:backupURLsRequired>
+        <ns1:backupURLs>http://localhost:1857</ns1:backupURLs>
+        <ns1:connectionFactory>PrimaryCF</ns1:connectionFactory>
+    </ns1:cfConfiguration>
+</ns1:namedConfiguration>

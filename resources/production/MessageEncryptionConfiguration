@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:namedConfiguration ns1:CLASS_NAME="com.fiorano.services.common.security.MessageEncryptionConfiguration" xmlns:ns1="uri:com.fiorano.services.common.security">
+    <ns1:passwordFromVault>false</ns1:passwordFromVault>
+    <ns1:customPasswordEncryption>false</ns1:customPasswordEncryption>
+    <ns1:key></ns1:key>
+    <ns1:xmlBlockAlgoType>AES128</ns1:xmlBlockAlgoType>
+</ns1:namedConfiguration>
